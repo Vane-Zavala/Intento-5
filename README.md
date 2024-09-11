@@ -17,3 +17,7 @@ Se desarrolló una aplicación web con Streamlit (app.py), que permite crear vis
 
 5)Despliegue y Configuración de Render:
 Se configuró Streamlit para su despliegue en Render añadiendo un archivo de configuración (streamlit/config.toml) y se actualizaron los archivos del proyecto en el repositorio de GitHub para reflejar los cambios en la aplicación web.
+
+
+Acceso a la app:
+ https://intento-5-fcfo.onrender.com
